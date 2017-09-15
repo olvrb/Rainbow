@@ -1,0 +1,6 @@
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\Rainbow\Rainbow\bin\Debug\Rainbow.exe.config
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\Rainbow\Rainbow\bin\Debug\Rainbow.exe
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\Rainbow\Rainbow\bin\Debug\Rainbow.pdb
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\Rainbow\Rainbow\obj\Debug\Rainbow.exe
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\Rainbow\Rainbow\obj\Debug\Rainbow.pdb
+c:\users\oliver.boudet\documents\visual studio 2017\Projects\Rainbow\Rainbow\obj\Debug\Rainbow.csprojResolveAssemblyReference.cache
